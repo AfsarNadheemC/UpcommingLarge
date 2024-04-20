@@ -1,0 +1,14 @@
+D:\IT\Software\C#\UpcommingLarge\bin\Debug\net9.0\UpcommingLarge.exe
+D:\IT\Software\C#\UpcommingLarge\bin\Debug\net9.0\UpcommingLarge.deps.json
+D:\IT\Software\C#\UpcommingLarge\bin\Debug\net9.0\UpcommingLarge.runtimeconfig.json
+D:\IT\Software\C#\UpcommingLarge\bin\Debug\net9.0\UpcommingLarge.dll
+D:\IT\Software\C#\UpcommingLarge\bin\Debug\net9.0\UpcommingLarge.pdb
+D:\IT\Software\C#\UpcommingLarge\obj\Debug\net9.0\UpcommingLarge.GeneratedMSBuildEditorConfig.editorconfig
+D:\IT\Software\C#\UpcommingLarge\obj\Debug\net9.0\UpcommingLarge.AssemblyInfoInputs.cache
+D:\IT\Software\C#\UpcommingLarge\obj\Debug\net9.0\UpcommingLarge.AssemblyInfo.cs
+D:\IT\Software\C#\UpcommingLarge\obj\Debug\net9.0\UpcommingLarge.csproj.CoreCompileInputs.cache
+D:\IT\Software\C#\UpcommingLarge\obj\Debug\net9.0\UpcommingLarge.dll
+D:\IT\Software\C#\UpcommingLarge\obj\Debug\net9.0\refint\UpcommingLarge.dll
+D:\IT\Software\C#\UpcommingLarge\obj\Debug\net9.0\UpcommingLarge.pdb
+D:\IT\Software\C#\UpcommingLarge\obj\Debug\net9.0\UpcommingLarge.genruntimeconfig.cache
+D:\IT\Software\C#\UpcommingLarge\obj\Debug\net9.0\ref\UpcommingLarge.dll
